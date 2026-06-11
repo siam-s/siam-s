@@ -3,7 +3,7 @@
 
 - I’m currently working on **CAESaR, Website Development, Unreal Engine Game Development**
 
-- I’m currently learning how to use: **PyTorch, SQL, Jupyter Notebook**
+- I’m currently practicing: **AWS, Azure, C++**
 
 - Ask me about: **Computer Vision, Neural Networks**
 
